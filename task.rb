@@ -73,7 +73,7 @@ def q8
 
   # 以下は変更しないで下さい
   p programming_languages
-  p upper_case_programming_languages
+  p upper_case_programming_languages 
 end
 
 def q9
