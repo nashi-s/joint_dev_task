@@ -126,7 +126,7 @@ def q16
   ]
 
   # 以下に回答を記載
-
+  
 end
 
 class UserQ17
